@@ -5,6 +5,11 @@ You are going to learn Relay and build a mini social network at the end of this 
 ## Access to the code
 You can get access to the code sponsoring me at Patreon (https://www.patreon.com/sibelius) or using Bitcoin
 
+## Discussions
+
+If you have any question about GraphQL/Relay you can discuss in Discusssion tab of this repo https://github.com/sibelius/relay-workshop/discussions
+I will provide my insights based on years working with GraphQL/Relay in production
+
 ## Remote Workshop
 
 If you are interested in this workshop as a remote workshop (live), send an email to sibeliusseraphini@gmail.com
